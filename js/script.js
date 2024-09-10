@@ -30,7 +30,7 @@ let utterance = new SpeechSynthesisUtterance("Hello, This is Nipa");
 speechSynthesis.speak(utterance);
 
 
-//Speech Synthesis with array/loop/funtion  (Sound listening Mozilla Firefox So please run file Mozilla Firefox)
+//Speech Synthesis with array/loop/funtion (Sound listening Mozilla Firefox So please run file Mozilla Firefox)
 let yy = '/* Speech Synthesis with array/loop/funtion */'
 console.log(yy);
 
