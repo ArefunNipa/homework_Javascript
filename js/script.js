@@ -22,8 +22,8 @@ for (let i = 0; i < colorNam.length; i++) {
 }
 
 
-//Speech Synthesis (Sound listening Mozilla Firefox So please run file Mozilla Firefox)
-let y = '/* Speech Synthesis */'
+//Speech Synthesis
+let y = '/* Speech Synthesis  (Sound listening Mozilla Firefox So please run file Mozilla Firefox)*/'
 console.log(y);
 
 let utterance = new SpeechSynthesisUtterance("Hello, This is Nipa");
@@ -31,7 +31,7 @@ speechSynthesis.speak(utterance);
 
 
 //Speech Synthesis with array/loop/funtion (Sound listening Mozilla Firefox So please run file Mozilla Firefox)
-let yy = '/* Speech Synthesis with array/loop/funtion */'
+let yy = '/* Speech Synthesis with array/loop/funtion (Sound listening Mozilla Firefox So please run file Mozilla Firefox)*/'
 console.log(yy);
 
 let colorNamm = ['Red', 'Green', 'Blue', 'Orange', 'Yellow', 'Aash']
